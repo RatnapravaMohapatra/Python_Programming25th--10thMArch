@@ -1,0 +1,1172 @@
+b^^^^^^^^^^FULL STACK DATASCIENCE & GENERATIVE AI @ 20th FEB
+	joining link: https://web.webex.com/join-meeting
+	Meeting Id:  2519 342 3910 & Password: 112233
+
+^^^^^^^^^ 20th Feb 25
+WELCOME TO NARESHIT 
+
+======== 
+1- scan the QR code 
+2- In the demo session what are topics i covered 
+3- what are main trending topic i will covered 
+===
+HOW MANY OF THEM HAS NON TECHNICAL 
+NON-TECH EXPERIENCE - 	BPO, TEACHNING, PROFESSOR, 
+TECH EXPERIECE - 	JAVA 12, MANGER - 20YR, .NET 4 , JAVA 5, 
+FRESHER OR B.TECH
+everyone is elligile to learn this course 
+	non technical student 
+	techn experience
+	non tech experience
+	fresher 
+	carrera gap happily learn this course 
+			generati ai -- 2024 ( 
+			agentic -- 2025 
+			prompt engineer - 2024
+=== 
+chatgpt -- openai ( microsoft ) purchase this  (chtgpt -- llm model )
+5 days -- chatgpt 1million customer 
+===
+gen ai model are 2 types
+	text based model -->
+		user enter text model generate text 
+	multi model 
+		user enter text model generate image, video 
+
+90% practicle & 10% theory 
+
+I will explian only in english but you can ask me in hindi, telugu, odia, tamil , bengali 
+	
+2016 - 2020 -- machine learning lot of opening
+2021- 2022 -- ml, dl, nn
+2023-2024 -- generative ai & prompt engineer 
+2025 - gen ai, agentic ai 
+--
+--
+AI is keep increaseting | we need to upskill our mindset 
+
+AI replace 50% developer | 10 job ( 5 jobs)
+
+AI IS NOT KILL THE JOB  THE ONE WHO LEARNS AI HE KILL THE JOB 
+every jobs are AUTOMIZATION 
+
+	10 yr back -- 24/7 call center 	now everyhthing replace by chatbot(zomatobot) 
+
+Machine learngin from the historical data you feed data to machine before 
+Netflix =-- if you watch action move | recommandation algorithm 
+		
+CAGR -- CURRENT ANNUAL GROWTH RATE 
+
+we will build generative ai project using help of huggingface.com
+--		
+Laptop configuration -->
+---
+If you have old laptop -- do not buy new 
+		if your laptop is slow (let me know) I want you to change ssd ram 
+			
+	8gb ram (min) 
+			if you have 4 gb -- upgrade 8gb ssd ( system will be speed)
+	windows | mac 
+	>i5  processor 
+	cpu 
+	512gb hard drive 
+	w10 | w 11
+	microsoft office 
+
+mon - sat ( 8:30am - 10 am)
+2nd sat & 4th sat hol
+
+10min -- typeing mast ( expert it)
+Talk to AI to learn english 
+
+^^^^^^^ 21st 
+Brand new batch 
+you havent miss any topics 
+Name of the course is - full stack datascience , generative ai
+today is your first class 
+--
+what are the topics covered under FSDS, GEN AI 
+	LLM MODEL
+	GENERATIVE AI
+	AGENTIC AI
+	AI
+	ML
+	STATS
+	PYTHON
+	MLOPS
+	CICD PIPELINE
+	AZUR AI
+	TABLEEAU, POWER BI
+	data analyst
+===== JOB PLACEMENT 
+
+	dear learner please understand  you need skill to represent infront of intervieer
+	you dont know how to speak  ( gain a skill)
+	current -- generative ai , prompt enginner, agentic ai
+		jave -- ai, .net - ai, data analyst -- ai 
+
+NareshIT ( brings placement)
+	1once ( my team will inform you) 
+we will schedule test 
+student who passed then he is elligible for the interview 
+in intervew student have to perform 
+then only you will get job 
+=====
+
+so 1k + student got placed 
+you trust or not trust me it is depends on your
+in this expert in python, sql, ( dont worry i will be guiden scratch level)
+
+1- what are the courses you will learn under fsds, gen ai, agentic ai
+2- job placement from (2020, 21, 22, 23, 24, 25 ----) 
+3- Roadmap -- discussed
+4- prerequistes to learn this course 
+		patience
+		calm down ( if you got bug (error) debug (fix the error)
+			take time to fix the bug 
+		keep give interview dont stop it 
+5- who can learn this course
+6- course fee without recording-- 21000 inr (
+						with recording - 27000 inr
+					
+7- why to choose datasceence & gen ai 
+- lab for practise
+		offline team lab is 3rd floor (9am-6pm)
+		online team virtual lab -- 9aa-6pm) my mentors will help you if you have any question 
+
+8- software 
+		anaconda python
+				jupyter notebook
+				spyder
+				vscode
+				pycharm
+				google colab 
+		database
+			mysql 
+			sqlite
+		business intelligence
+			tableau 
+			powerBI
+		cloud 
+			azur ai 
+		deployment
+			cicd 
+		frontend framework
+			streamlit
+			fast api
+			flask
+
+^^^^^ 24th
+
+today we are day 3 of the demo session 
+---
+Day - 1 & Day - 2
+----
+-- My introduce
+-- job placement
+-- roadmap of the course
+-- who can learn this course
+-- prerequist to learn this course 
+-- generative ai project ( multi model projects )
+-- about offline lab & online lab how to practise the code 
+-- what are topics coverd under the course
+-- about course syllabus 
+-- qr code to scan so that you will get all recording classes 
+-- i unmute lot of learned i answered their query offline & Online 
+-- whom to reach out if you have non technical question
+-- what software we nned to required to learn datasciece, ai, gen ai, agenti ai 
+
+this brand new batch 
+
+
+
+capstone project -->
+	live project -- domain project which is always live 
+BANKING 
+HEALTHCARE
+INSURENACE 
+SERVICE 
+
+in your resume you need to mention these project to get interview call 
+
+about google classrrom 
+	regular baiss i wil upload class notes
+	interview 
+	mock test
+	you will download , comlet project and upload 
+	
+	
+data science 
+		supervised learning = structured data 
+				data is label ( you can see the columns) 
+		unsupervised learning 
+		reinforcemtent leanring 
+
+full stack datasceince 
+
+full stack -->
+	backend 
+	+ 
+	frontend 
+
+we build backed end ( ml algo, nlp algo, dl algo)
+we build frontend( streamlit, flask, fast api, gradio)
+
+3 DAYS TO COMPLETE THE DEMO
+
+===== ALL THE DEMO ARE COMPLETED =====
+
+online team ( student raise their hand) expeceted answer)
+they are angrey -- 6 months
+if my class will stop 
+
+
+
+
+-- the student who technical expert again just be patienc 
+-- first day i cant start oops fresher not understand 
+-- the student who already know oops just calm down 
+
+the student experience, ceo, cto, leader, fresher, non tech
+just calm down cuz i will uumute then i will answer your of your query
+
+8:30 am this is best time learn AI concept 
+code, 
+
+-- Complete python just calm downl 
+-- I have some things tocomplete 
+-- Today i will share one link to install the software ( can you go & install the software)
+
+
+1- google
+2- google colab
+3- new notebook 
+
+Task-1 : work with number & arithmatic operator 
+
++, - , *, /, 
+
+non technincal -- number
+python programmin -- number we called as integer 
+short form of integer is INT 
+
+non technical -- text 
+pyhton programe -- text we called string
+
+python string always ends with  ' ', " " ,  ''' ''' 
+
+pthon error -- bug 
+fix the error - debugging or debug 
+
+python error type -->
+	synatax error -- if user enter any wrong code then system give you syntax erro 
+	user miss , :, 
+
+3 + 4 
+3 & 4 -- operand 
++ - operator 
+
+python error  3 types
+	compile time error 
+	run time error
+	logical erro 
+	
+god create python only for non technical team .
+
+^^^^^^^^^ 25th
+this qr code is for nareshit whats app group 
+everyday my admin shared all the recording classes till demo session 
+
+the student who raise your hand & if you have any concern or any question 
+i will unmute at last & i will answer your query.
+i humble request you 8:30am batch dont angrey if i not answer your query immediately 
+but definitely i will answer your query 
+
+frehser
+non techn
+technica
+experise
+leader 
+
+everyone is joined this batch
+
+Every GEN AI, LLM , AGENI AI we have to learn & i am also learning form my cleint
+from my freelancer, my client , i am studying 
+
+if you guys are expert python codeing, ml, dl --
+		just wait for some time every day i will explaing everying from basic to expert level
+		
+today we are at 4th day of the session 
+
+last 3 days whats are 
+
+online team the learnser who so ever voice is not clear request you to please check your internet connection.
+
+last 3 days what are the topic i explain in the demo session 
+
+today onward real classes stared -->
+	6months journey lets begins with python programming 
+
+student who enrolled this class -- please nagabau sir will share to your whats app
+	once your register you will added in the classroom ?
+	
+student or learner who joined for 1st tiem please copy the last 3day video 
+	and also i will talk to you at the end 
+	
+
+why python ? why not other programming ?
+
+c 
+c++
+java
+python 
+.net
+sql
+
+take python as 1st programmin - mastering it 
+	get job
+
+DSA -- DATA STRUCUTRE & ALGORIGHTM 
+	INBUILD DATASTRUCTURE --> DS, GENERATI, LLM 
+		LIST 
+		TUPLE
+		SET 
+		DICT
+	USER DEFINE DATASTURE 
+		LINKED LIST
+		STACK
+		HEAP QUERY 
+		ARRAY 
+
+Multiple opportunity 
+	multipay way reach the goal 
+
+Life you need to earn multiple sourcese 
+only 1 income
+
+Every body - install this software ware
+	ANACONDA PYTHON 
+	
+OPEN SOURCE -- free application & paid application 
+student, researcher -- free application 
+organizatio -- employee -- paid application 
+
+Steps to install software-->
+----
+1- google - type anaconda 
+2- give your gmail id 
+3- automatic software is download
+4- install the software 
+5- start - you can see anaconda folder has created 
+6- if any one has any issue on installeat please reach out my mentor 
+7- once select anaconda folder 
+		anaconda navigator 
+		command prompt 
+		jupyter notebook
+		spyder 
+8- search - cmd - python -- test your code 
+		anaconda prompt -- test the code 
+
+=== 1st codeing 
+
+number -- integer (int)
+text - string '' "" ''' ''' 
+
+after the class i will share installation video ( you can watch install it)
+====
+Python -->
+===
+- why to learn python 
+- work with numbers
+- work with string ( I will explain indepth of the string)
+- pyton is object oriented programing 
+		object 
+
+syntax to define python variable 
+	 (variable name = value )
+	 
+v = 5 
+    v is variable , 5 is value ( number )
+	
+v1 = 'nit'
+	v1 is variable , 'nit' (string) 
+
+always remember you need to call the assigned variable it self 
+
+
+1- please install software ( share the link please wathc it)
+2- we will start code togetaher 
+
+Name error
+syntax error
+
+.doc | .xlcx | .pdf 
+
+.py 
+jupyter notebook all the extension ares .ipynb 
+	interactive python note book
+	
+8gb ram ( 16gb ram)
+512gb ssd
+intel core processor 
+w 10 11
+1tb hard 
+>i5 
+
+^^^^^^ 26th
+
+i will take the back up class 5 days 
+i will share last 4 days recording session 
+we just compelte  4 days only
+any leanrer who complete ml, pyhton, sql, nlp 
+
+java - 8 line 
+c & c# - more line 
+python - les snumer of code 
+
+father - who invented python Guido van Rosam
+complete monty python's flying circus'' - broadcasted in BBC channel
+python 
+
+java 1995 python 1989 -- no one used python at that 
+python is more popular when ( ml, data, ) python become popular now 
+
+python has more librar compare to java 
+
+python doesnot works at mobie based application 
+
+write one code in python 
+same code can run in winds, linux, mac 
+
+library 
+	ml frame - sklearn
+	dl frame - tensorflow, keras
+	llm frame - langchain, langgrpah
+	computer vison -- opencv, yolo, mediapipe
+	nlp frame --  nltk, spacy
+	data analy - numpy, pandas, plt, sns 
+	agentic ai -- phi data, crew ai 
+	---
+python version 
+
+bigdata and data sciecen -- anaconda python 
+i told to install anaconda software -- you already done that 
+
+python version 
+	python 1.
+	python 2.0
+	python 3.0 
+
+software -->
+	anaconda -- 
+	jupyter
+	spyder - ml 
+	 vs code
+	 colab
+	 pychar
+	
+python introducion -- we completed 
+
+python ide ( integrated development environment)
+	using ide one can write the code, fix the erro, excute the programe 
+	
+using IDE - one can write code, run the code, debug the code
+	ide -->
+		jupyter
+		vs code
+		pycharm 
+
+python interpreter 
+python compiler 
+
+cpu vs gpu 
+local system = personal system -- you install software -- jupyter notebook(cpu) 
+google == google machine == using jupyter noteb = google ( gpu)  -- cloud 
+
+execute the code line by line - interpreter 
+exeute entire code at once - compiler 
+
+does python is interpreter or compiler == both 
+
+VARIABLE :
+	variable name = value
+	
+a = 5 | a - variable  | 5 - value 
+---
+Rules to define python variable -->
+----
+1- variables are case sensitive 
+2- variable never start with digit but ends with digit 
+3- special symbols are not allowed to define variable only _ is allowed 
+4- keyword are never b
+	
+keyword or reserve words
+
+python function are always ends with ():
+
+variable vs function 
+
+c proga - keywords
+java - keyword
+python - keyword
+
+if you completed all the keywords ( python complete) 
+
+['False',
+ 'None',
+ 'True',
+ 'and',
+ 'as',
+ 'assert',
+ 'async',
+ 'await',
+ 'break',
+ 'class',
+ 'continue',
+ 'def',
+ 'del',
+ 'elif',
+ 'else',
+ 'except',
+ 'finally',
+ 'for',
+ 'from',
+ 'global',
+ 'if',
+ 'import',
+ 'in',
+ 'is',
+ 'lambda',
+ 'nonlocal',
+ 'not',
+ 'or',
+ 'pass',
+ 'raise',
+ 'return',
+ 'try',
+ 'while',
+ 'with',
+ 'yield']
+
+T:1 - Python variable class explanation, documentation 
+
+^^^^^^^ 27th 
+
+5th day our new batch 
+I  will share 4 days recording & at last i will overview 
+i will unmute you and we will discuss if you have any question 
+
+My team will share recoding, course syllabus 
+
+function() 
+
+variable = value 
+
+value --> 	number, text, decimal, 
+
+value == data types 
+
+python data types 
+
+VARIABLE = VALUES ( DATATYPES)
+
+yesterday we arecompleted variables 
+today we will discuss value or data type 
+
+oops -->
+	object oriented progrmming language 
+
+class 
+	inbuild class --> 
+	user define class 
+method
+encapsulation 
+polymorphsim
+inheritence
+abstraction
+
+int - value without decimal 
+float - value with decimal
+bool - either true or false
+complex - a + bj (only j letter is allowed 
+		a - real part
+		b- imaginary part
+		j- squre root of -1 
+any other programin language you dont have this datatypes
+
+real time we will use this datatype in math application (
+
+only thoery -- you never ever get the job 
+organiztion - 9 hr you have to work 
+college -- only theory 
+
+string quotes with ' ' || " " | '''   '''
+
+''' ''' == multline string 
+
+multiline in nlp 
+
+python slicing concept --> :
+python index --> 2 part 
+	forward index --> left to right --> begines with 0
+	backward index --> right to left --> -1
+
+variabe 
+data type 
+
+Python operator
+	ARITHMETI OPERATOR
+	ASSIGNMENT OPERATOR 
+	RELATIONAL OPERATOR 
+	LOGICAL OPERATOR 
+	UNARY OPERATOR 
+
+name error
+syntax error
+zero division error
+index error 
+ === 
+5th day of session 
+link will change -- online team 
+
+1- download winrar
+2- click the file whihc i shared 
+3- right side top right corner you will see 3 dots 
+4- click the 3 dots - open in new window
+5- you can view download icon
+6- click the icon , extract file are dopwnlaod
+7- go to download folder - foldder is donwlado to your system
+8- right clieck - unzip it - winrar -extra --you can see the folder
+9- start - all - anaconda - jpyter notebook
+10- start working 
+
+^^^^^^^ 28th 
+
+python basic operator 
+python type casting
+what is parameter or argument 
+module, package, function
+
+tech indu, non tech industry excel is mandatory 
+without excel sheet -- generate from database 
+whereeve you excel sheet -- data analyst job opportunity 
+=============
+HUMAN INTELLIGENCE -- GOD -- BRAIN 
+	BRAIN - COLLECTION OF NEURONS 
+
+1yr kid -- what is dog, what is cat 
+his parent, grande pante trained his brain 
+
+	cat eye -- 1featre
+	cat pointy ear -
+	cat legs -- 1 
+	show 1 image of the cat ( multiple image of the cat)
+
+brain is trained from these attribute these (4 paraemt)
+	kid can recoging -- cat, dog 
+
+AI -- mimic human brain 
+human brain create by god same brain feed to the machine 
+	for that instll some librar 
+		tensorflow
+		keras
+		pytorch
+		theno
+		opencv
+	
+
+recommandation project --> resume 
+	amazon
+		black t-shirt | no colar neck 
+	ml model recomeman -- you only similary dress 
+
+user based 
+item based 
+
+
+chatbot -- feed some query and respone ( chatbot trained)
+
+llm mdoel -- chatgpt ( openai api key
+api 
+
+databased 
+	sql db
+	no sql db
+	vector db -- text, image, audio are stored in vector form
+	
+
+python 
+sql
+stat
+ml - to learn m 
+nlp - 
+dl, nn
+generative ai 
+prompt engineer
+agenti ai 
+
+function ends with ()
+
+family()  --> no argument or no parameter 
+family1(dad, mom) -- 2argument or parameter 
+family2(dad,mom, son, daug) - (4 argument parameter )
+3 function created 
+1house(sand, bricks,labour, land, water, cement)
+germanbrand cars(bmw, audi, volks) 
+
+argument = parameter 
+
+TYPE CASTING 
+--
+from all other datatype to int 
+
+# we can type cast from all other data type to integer except complex & text string 
+
+
+why we leanring his 
+work in project ( whole nmer( decimal number)
+type casting 
+
+if you complete work -- store those work in your computer
+computer -- all work witll loss 
+you have to store reguarl in github  & show to work to world 
+linkedin -- 
+
+blogs 
+	github cratation 
+	linked 
+	blog 
+
+we can type cast from other datatypes to int & float except ( complex & text string)
+
+python 
+	data analysis project
+	stats 
+	sql 
+	basicd python 
+	advance python
+genr
+	opneai
+	google
+	lalma
+Technical Things 
+
+^^^^^^ 1st
+-----
+AGENDA FOR TODAY SESSION -->
+-----
+Type Casting 
+Python Operator 
+Github Creation  
+Last Demo 
+===
+type casting
+ # complex type casting only 1 argument would be string is allowed 
+ 
+all other datatype to int, float except complex & text string not possible
+all other datatype to complex where string user has to pass only 1 argument 
+=====
+demo session are completd 
+variable 
+datatype
+type casting
+string slicing
+string indexing 
+2 task so far 
+====
+python operator we are completed -->
+---
+arithmetic - 
+relational - >, <, >=, <= , ==, !=
+uniary - one operator -
+assignment =,+=, -=, /=, //=, *= 
+Logical = and, or , not 
+----
+GITHUB CREATATION -->
+----
+
+company 
+you will work for project 
+every project you have manager 
+project has 10 members consist one team
+project has to deliver to the client 
+client will give pay check to company and company will pay you 
+project has to keep in confidentdential 
+everytime project need to change based new data , new requried 
+
+GITHUB 
+if manager and team keep everyday work in that github 
+	everyone can the see on work daily basic
+	deployment from github 
+	cicd pipeline from gitaction
+	
+out of india -- github 
+
+you will commit all the code from the day 1 in the repository 
+
+1- Google
+2- Github.com
+3- Signin with your gmail.com
+4- Do your verification by mobile & gmail
+5- after verification user can see the dashboard
+6- click on repository
+7- fill the name of repository - commit 
+8- add file - new file 
+9- when you drag and drop to git you can able to see the folder 
+10- upload the file only files not folder 
+11- commit changes 
+12- repositraot is create --
+	https://github.com/kodigitaccount/python_programming (resume project) 
+13- how to create the repository
+14- how to delate the repositroy 
+15- successfully 
+
+resume project -- keep in private mode
+other project - keep in public model 
+
+^^^^^^^ 3rd 
+
+learners who joined for the first time can you please scan the qr code 
+you got everyday recording session 
+
+---
+python data structure -->
+---
+
+
+
+student who joined for the first tiem i will take the back up classes at last 
+	is that fine ( online & offline team) 20 min 
+
+	
+data types 
+===
+	a = 5 ( a is varibale which sote the data type called int
+	b = 5.5 (float)
+	c = 'string' (string)
+	d = True (bool)
+	e = 1 + 2j  (complex) 
+====
+f = 5, 5.5, 'str', True, 1+2j
+===
+	
+data types == user or developer have to define only 1value 
+data structure = user has to define more then 1 value 
+ 	
+data type 
+vs 
+data structure 
+
+
+
+matrix = collection of datastructure
+datastructure = collection of data type 
+datatype == user have to assign only 1 values 
+				int, float, string, complex, bool
+				
+
+data structure -- 2 types 
+	inbuild datastructure 
+		list 
+		tuple 
+		set
+		dict 
+	user define datastructure 
+		stack 
+		queue
+		tree
+		linked list 
+
+c -- you must exper tin user defind datastrucute 
+java - you must expert in user define dataset
+data struce -- all user define data structure comes with library 
+			numpy
+			pandas
+			matplotlin
+			seaborn
+			sklearn
+			tensorflow 
+			
+Please open your laptop offline team & Online team 
+	
+learner who install anacodan -- please open jupyter notebook
+who joined for the 1st time -- no proble i will take back up class 
+	
+
+function ()
+len()
+id()
+print()
+	
+	family() --> 0 
+	family1(d, m) --> 2 arg or 2 param
+	family2(d, m, s, da) -->4 rgument 
+
+== today code explanation i am done
+
+
+start the business 
+run the business -- tought
+----
+steps to download class notes from google classroom -->
+----
+1- google - winrar or winzip
+2- install the software  
+3- go the drive - click the file which i shared - right click 3 dots 
+4- open in new window 
+5- file is downloadign to your system
+6- select the folder - extract it 
+7- check the exte 
+8- open jupyter - upload the task which i give to you 
+
+=== new students ===
+Taken the back up classes
+
+^^^^^ 4th 
+
+list data structure 
+work assignment 
+deepseek llm model one test we will do 
+
+_ == stored previous value but some of the system it not works 
+	anaconda system version issue  
+	no need to panic on this issue 
+	google colab 
+
+
+how to convert to pdf 
+	jupyter lab --- ctrl + p ( it will work)
+	
+	
+when i say to you please open the laptop ( open the laptop)
+you are write any variable -- got erro ( fix the error)
+
+new commer or beginner might be you feel not understad 
+my mentor ( classroom)
+listeen everythin 
+
+dont distract ( you do practise later ) 
+the guys who can work with me they can continue
+
+remove() - remove the element 
+pop() - remove the element by index wise 
+			if you dont pass any argument bydefault it will take last 
+
+----
+llm model--> large language model 
+----
+These models are trained from internet , website, lot of article 
+chatgpt -- open ai ( microsoft)
+deepseek -- deepseek 
+using ollama frame work chatgpt or chat.deepseek applicatikon locally 
+
+
+tomorrow onward online team you will get new link 
+today i will more clarity ( there is no more freee session)
+
+Insert(1- index position, 2nd arg 
+
+9am - 6pm ist (us, uk, afric) you check 2hr 
+
+-- trust 	
+
+
+today is last day of our class 
+- i will happy to help 
+- if you not understadn few thing 
+- when you give interview the guys who ask questioh he is more expere 25- 30yr 
+	- way you answer he will catch you are fake 
+
+- when you ask to 5th clas kid can you catch 
+- please mature in thinking anbd mature in talking, behave in matrure
+then you will bale crack job 
+	
+whe you will underst 8yr if you join in the compay 
+
+=== Amazing 
+
+^^^^^^ 5th
+string slicing
+
+list slicing --> :
+
+: - entire elment
+2:10 --> Print the element from 2nd index to n-1 (10-1) 9th index 
+				always right index should be n-1 formula is applicabel 
+:10 -->  print the element from starting to n-1 
+3: --> print the element from 3rd indext to last index 
+1:100:10 
+	-> print start indext (1st ) & last index (100) & step index (10)
+every 10th step count 
+	
+list is mutable
+	ml, 
+	dl
+	loops, 
+	any project 
+
+list is mutable or hashablle or chagable 
+linkedin is worldwide platform 
+
+today link changes 
+stduent who joned late no problem - i will share the recording for today 
+tomorrow online team join with new link 
+
+-- datascientsti
+	generative ai
+	agentic ai 
+	llm model
+	ai 
+	ml
+	nlp
+	
+designat -- hug page no full stop 
+	if you not understand even i am so sorry 
+	please listen the class againg, write the notes
+	4hr practicse required 
+		to learn the classes, practice sthe classe
+
+example -->
+	
+	1st class kid - explain 1st class concept he or she dont understna 
+	2nd grede - 1st class concept easy 
+	3rd grade - 1st calss ver very easy 
+
+just give time (practice )
+everything is possible 
+	be a self learner 
+	also explain like this ( you have to improved yourself) 
+
+Company got a job - clinet will give the task 
+Till today i can update in the classroom
+
+^^^^^^ 6th
+python is programming language 
+	program language has synax and only only only practicle no theory
+
+car drving -- practicle 
+play cricket -- practicle
+football - rulexs & practicle 
+ml - theory + practicle
+stat - theory + practicle 
+
+8:am batch studetn 
+
+concept + theory +practicle 
+
+===== i will give overview day -1 
+
+3-4 days demo 
+introduce to python
+python variable - variable name = value 
+python datadatype --> int , float , string , bool, complex, 
+type casting or type conversion ( convert one datatype to another datattype)
+python datastrcuture 
+	list -- completd 
+	tuple
+	set
+	dict 
+	
+opne your jupupyter notebook
+everyone install jupyter notebook 
+everyone create github 
+everyone has linkedin 
+
+python bitwise operator -->  
+
+
+if i will give you any inteerview question 
+bookmark ( company ) 
+
+infosyst layoff 700 employee why 
+infosyst conduct test ( 700 student are faile)
+hired from college 
+they never new struggle 
+
+if you got errro --> immediatly ( just calm down) try to think fix the bug 
+
+
+
+while you study in the session , if i type something 
+everytime your brain pass lot of question ( few day please dont listn o
+
+
+concept 
+complet those assignment
+geeksforgeeks
+leetcode 
+===
+leet code 
+
+
+while you work if you have any issue dont worry 
+	just stop calm down(try to another time ) fix it
+			please ask to mentor 
+
+
+distribution concept born from probability 
+	real time did you knwo where proba used 
+		stock market
+		
+		flight tikent -- seat confirnation (74% pro ( your seat will confirmation) 
+
+5yr back irctc do you have this feature 
+front end is ( one line ( s4 - 74% )
+backed end - machine leanring algorithm 
+		naive baayes algorithm 
+				bayesian throerm 
+======
+example -->
+	probabiliyt
+	distribtuion 
+	ai application -- implement in irctc or flight 
+	backedn - ml model 
+	front end - ai application 
+	algorith - naive bayes 
+	math - bayesian theorem 
+======
+
+studetn who enrolled please fill this form -->
+			https://forms.gle/Mw8VMzcUp4ApkJBL8
+
+^^^^^^^^^^ADMIN DETAILS ==>
+Online admin number 
+		Mr. Naga Babu-- 90630 42468
+		Mr.Preem-- 9979 97901
+Offline Admin 
+		- Mr.ajay--7997997808
+		
+^^^^^^^^^^ONLINE MENTOR ==>
+Data science mentor link-1: 
+https://zoom.us/j/82068816627?pwd=3BYepgjDCqbkroxauQGo2T4gr9f7Fn.1
+
+Data Science link-2
+https://zoom.us/j/86433658207?pwd=7abh6fYZ1McPZsguCNgEaONRoKKY7Y.1
+
+Password - 112233
+=============================
+OFFLINE METOR (3rd Floor) ==>
+
+
+^^^^^^^^ 📂 Drive Link: https://t.ly/Q2mLC
+^^^^^^^^^^Enrolled student Google Form ==>
+
+
+^^^^^^ 👉 Backup Video:
+📂Day-1 https://youtu.be/fI13-OYNmcw
+📂Day-2 https://youtu.be/gStlVJp8T4Q
+📂Day-3: https://youtu.be/ZEsk_lMmt8s
+📂Day-4: https://youtu.be/0mkDESyaY0U
+📂Day-5 https://youtu.be/_JF-dQQVQuI
+📂Day-6 https://youtu.be/jzMIbZmfgAg
+📂Day-7 https://youtu.be/Hd_y2kxIlNk
+📂Day-8: https://youtu.be/zIlFKjLnwAY
+📂Day-9: https://youtu.be/RkXWsjq78rg
+
+^^^^^^^^^^^^^^
+📂 Google Drive Link: https://drive.google.com/drive/folders/1QEB-jekiwNIBas9fQdoHHRQxrnmxldSt
+💻 Software Installation: https://t.ly/YoRAA 
+👨💻 python identifier -- https://www.youtube.com/watch?v=7HEke2aEND0
+^^^^^^^^^^^^^^^^
+
+
